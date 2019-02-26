@@ -6,6 +6,7 @@
 /[Bb]uilds/
 /Assets/AssetStoreTools*
 /Assets/Recorder/
+/Assets/Recorder.meta
 
 # Visual Studio cache directory
 .vs/
